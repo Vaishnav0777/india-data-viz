@@ -1,0 +1,29 @@
+state,population_millions,area_sq_km,density_per_sq_km,literacy_rate,sex_ratio,gdp_billion_usd,capital,region
+Uttar Pradesh,199.8,240928,829,67.7,912,240.0,Lucknow,North
+Maharashtra,112.4,307713,365,82.3,929,400.0,Mumbai,West
+Bihar,104.1,94163,1106,61.8,918,75.0,Patna,East
+West Bengal,91.3,88752,1029,76.3,950,155.0,Kolkata,East
+Madhya Pradesh,72.6,308245,236,69.3,931,120.0,Bhopal,Central
+Tamil Nadu,72.1,130058,555,80.1,996,250.0,Chennai,South
+Rajasthan,68.5,342239,200,66.1,928,130.0,Jaipur,North
+Karnataka,61.1,191791,319,75.4,973,220.0,Bengaluru,South
+Gujarat,60.4,196024,308,78.0,919,200.0,Gandhinagar,West
+Andhra Pradesh,49.4,162968,303,67.0,993,140.0,Amaravati,South
+Odisha,42.0,155707,270,72.9,979,65.0,Bhubaneswar,East
+Telangana,35.0,112077,312,66.5,988,140.0,Hyderabad,South
+Kerala,33.4,38863,860,94.0,1084,110.0,Thiruvananthapuram,South
+Jharkhand,33.0,79714,414,66.4,948,45.0,Ranchi,East
+Assam,31.2,78438,398,72.2,958,45.0,Dispur,Northeast
+Punjab,27.7,50362,551,75.8,895,75.0,Chandigarh,North
+Chhattisgarh,25.5,135191,189,70.3,991,40.0,Raipur,Central
+Haryana,25.4,44212,573,75.6,879,95.0,Chandigarh,North
+Uttarakhand,10.1,53483,189,78.8,963,30.0,Dehradun,North
+Himachal Pradesh,6.9,55673,123,82.8,972,18.0,Shimla,North
+Tripura,3.7,10486,350,87.2,960,6.0,Agartala,Northeast
+Meghalaya,3.0,22429,132,74.4,989,5.0,Shillong,Northeast
+Manipur,2.9,22327,128,79.2,985,4.0,Imphal,Northeast
+Nagaland,2.0,16579,119,79.6,931,4.0,Kohima,Northeast
+Mizoram,1.1,21081,52,91.3,976,3.0,Aizawl,Northeast
+Arunachal Pradesh,1.4,83743,17,65.4,938,3.5,Itanagar,Northeast
+Sikkim,0.6,7096,86,81.4,890,4.0,Gangtok,Northeast
+Goa,1.5,3702,394,88.7,973,10.0,Panaji,West

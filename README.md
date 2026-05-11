@@ -18,13 +18,19 @@ The dataset covers 28 Indian states with the following attributes:
 
 ## Visualizations
 
-- Population distribution across states
-- Literacy rate comparison by region
-- GDP vs Population correlation
-- Population density heatmap
-- Sex ratio analysis
-- Regional breakdown charts
-- Top/bottom state comparisons
+### Population Distribution
+![Population Bar](plots/population_bar.png)
+
+### GDP vs Population
+![GDP vs Population](plots/gdp_vs_population.png)
+
+### Literacy Rate by State
+![Literacy Bar](plots/literacy_bar.png)
+
+### Correlation Heatmap
+![Correlation](plots/correlation_heatmap.png)
+
+See all 13 charts in the [plots/](plots/) folder.
 
 ## Setup
 

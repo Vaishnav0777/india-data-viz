@@ -37,7 +37,7 @@ def plot_literacy_by_region(df: pd.DataFrame) -> None:
     fig, ax = plt.subplots(figsize=(10, 6))
 
     region_order = df.groupby("region")["literacy_rate"].median().sort_values(ascending=False).index
-    sns.boxplot(data=df, x="region", y="literacy_rate", order=region_order, palette="viridis", ax=ax)
+    sns.boxplot(data=df, x="region", y="literacy_rate", order=region_order, hue="region", palette="viridis", legend=False, ax=ax)
     sns.stripplot(data=df, x="region", y="literacy_rate", order=region_order,
                   color="black", size=5, alpha=0.5, ax=ax)
 

@@ -13,6 +13,7 @@ from plot_gdp import plot_gdp_bar, plot_gdp_vs_population, plot_gdp_per_capita
 from plot_density import plot_density_bar, plot_area_vs_density
 from plot_sex_ratio import plot_sex_ratio, plot_sex_ratio_vs_literacy
 from plot_regional import plot_regional_overview, plot_correlation_heatmap
+from plot_top_bottom import plot_top_bottom
 
 
 def main():
@@ -42,14 +43,18 @@ def main():
     plot_sex_ratio(df)
     plot_sex_ratio_vs_literacy(df)
 
-    print("\n[6/6] Regional plots")
+    print("\n[6/7] Regional plots")
     plot_regional_overview(df)
     plot_correlation_heatmap(df)
 
+    
+
     print("\n" + "=" * 50)
-    print("  All 13 plots saved to plots/ folder!")
+    print("  All 14 plots saved to plots/ folder!")
     print("=" * 50)
 
+    print("\n[7/7] Top/Bottom comparison")
+    plot_top_bottom(df)
 
 if __name__ == "__main__":
     main()

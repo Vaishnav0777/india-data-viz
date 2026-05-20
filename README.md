@@ -59,6 +59,13 @@ india-data-viz/
 ├── requirements.txt
 └── README.md
 ```
+## Technologies
+
+- Python 3.11
+- pandas for data manipulation
+- matplotlib and seaborn for visualization
+- SQLite for database analysis
+- SQL for querying and aggregation
 
 ## License
 

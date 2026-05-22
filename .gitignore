@@ -8,3 +8,6 @@ venv/
 .DS_Store
 Thumbs.db
 .ipynb_checkpoints/
+*.db
+*.sqlite
+data/exports/

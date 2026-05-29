@@ -30,3 +30,9 @@
 
 \- SQL analysis queries with SQLite integration
 
+
+## v1.2.0 - 2026-05-29
+
+### Added
+- Author section in README
+- Package version in __init__.py

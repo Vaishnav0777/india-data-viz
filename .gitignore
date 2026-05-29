@@ -11,3 +11,5 @@ Thumbs.db
 *.db
 *.sqlite
 data/exports/
+*.log
+*.tmp

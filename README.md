@@ -78,3 +78,7 @@ Vaishnav Venkatesh - [GitHub](https://github.com/Vaishnav0777)
 ## Status
 
 ![Maintained](https://img.shields.io/badge/maintained-yes-green) ![Python](https://img.shields.io/badge/python-3.11-blue)
+
+## License
+
+MIT License. See [LICENSE](LICENSE) for details.

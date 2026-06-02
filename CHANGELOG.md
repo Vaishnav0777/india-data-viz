@@ -36,3 +36,8 @@
 ### Added
 - Author section in README
 - Package version in __init__.py
+
+## v1.3.0 - 2026-06-02
+
+### Added
+- Security policy added to project

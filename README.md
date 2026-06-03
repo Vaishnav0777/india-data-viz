@@ -82,3 +82,7 @@ Vaishnav Venkatesh - [GitHub](https://github.com/Vaishnav0777)
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first.

@@ -13,3 +13,7 @@ Thumbs.db
 data/exports/
 *.log
 *.tmp
+
+# Virtual environment
+.venv/
+env/

@@ -86,3 +86,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first.
+
+## Acknowledgements
+
+Built with Python 3.11, pandas, matplotlib, and seaborn. Data sourced from public Indian census records.

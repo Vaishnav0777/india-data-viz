@@ -90,3 +90,7 @@ Pull requests are welcome. For major changes, please open an issue first.
 ## Acknowledgements
 
 Built with Python 3.11, pandas, matplotlib, and seaborn. Data sourced from public Indian census records.
+
+## Correlation analysis
+
+`src/plot_correlation.py` computes a correlation matrix across the numeric metrics (population, area, density, literacy, sex ratio, GDP, and derived GDP per capita), renders a heatmap to `plots/correlation_heatmap.png`, and prints the strongest variable pairs ranked by absolute correlation.

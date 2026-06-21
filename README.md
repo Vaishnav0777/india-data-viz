@@ -94,3 +94,14 @@ Built with Python 3.11, pandas, matplotlib, and seaborn. Data sourced from publi
 ## Correlation analysis
 
 `src/plot_correlation.py` computes a correlation matrix across the numeric metrics (population, area, density, literacy, sex ratio, GDP, and derived GDP per capita), renders a heatmap to `plots/correlation_heatmap.png`, and prints the strongest variable pairs ranked by absolute correlation.
+
+## SQLite workflow
+
+The dataset can be queried with SQL via a local SQLite database:
+
+```bash
+python3 src/db_loader.py    # builds data/india_states.db from the CSV
+python3 src/db_queries.py   # runs analytical queries against the database
+```
+
+`db_loader.py` creates a `states` table with a derived `gdp_per_capita` column and an index on `region`. `db_queries.py` reports top states by GDP and GDP per capita, regional averages, and literacy rankings.
